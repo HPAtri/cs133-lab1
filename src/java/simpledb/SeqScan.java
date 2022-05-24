@@ -1,14 +1,5 @@
 package simpledb;
 
-import simpledb.Database;
-import simpledb.TransactionAbortedException;
-import simpledb.TransactionId;
-import simpledb.Type;
-import simpledb.DbException;
-import simpledb.DbFileIterator;
-import simpledb.Tuple;
-import simpledb.TupleDesc;
-
 import java.util.*;
 
 /**

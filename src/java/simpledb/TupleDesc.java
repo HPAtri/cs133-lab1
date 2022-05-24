@@ -1,7 +1,4 @@
 package simpledb;
-
-import simpledb.Type;
-
 import java.io.Serializable;
 import java.util.*;
 

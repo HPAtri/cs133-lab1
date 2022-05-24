@@ -1,9 +1,4 @@
 package simpledb;
-import simpledb.TransactionAbortedException;
-import simpledb.DbException;
-import simpledb.Tuple;
-import simpledb.TupleDesc;
-
 import java.io.Serializable;
 import java.util.*;
 

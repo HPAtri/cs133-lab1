@@ -1,10 +1,4 @@
 package simpledb;
-
-import simpledb.Type;
-import simpledb.DbFile;
-import simpledb.HeapFile;
-import simpledb.TupleDesc;
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;

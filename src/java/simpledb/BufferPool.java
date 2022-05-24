@@ -1,11 +1,5 @@
 package simpledb;
 
-import simpledb.Database;
-import simpledb.Permissions;
-import simpledb.DbException;
-import simpledb.TransactionAbortedException;
-import simpledb.TransactionId;
-
 import java.io.*;
 
 import java.util.concurrent.ConcurrentHashMap;

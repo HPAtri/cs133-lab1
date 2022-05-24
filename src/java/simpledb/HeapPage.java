@@ -1,11 +1,5 @@
 package simpledb;
 
-import simpledb.Database;
-import simpledb.DbException;
-import simpledb.Debug;
-import simpledb.Catalog;
-import simpledb.TransactionId;
-
 import java.util.*;
 import java.io.*;
 

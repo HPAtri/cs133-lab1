@@ -1,8 +1,5 @@
 package simpledb;
 
-import simpledb.Type;
-import simpledb.Utility;
-
 import java.io.*;
 import java.util.Arrays;
 import java.util.List;
